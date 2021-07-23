@@ -1,6 +1,6 @@
-if VideoWriterBT
+if SpaccPadBT
 
 config ZMK_KEYBOARD_NAME
-    default "VideoWriterBT"
+    default "SpaccPadBT"
 
 endif
