@@ -17,6 +17,8 @@
 		compatible = "zmk,keymap";
 
 		default_layer {
+		
+			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_NEXT C_PREV>;
 			bindings = <
 					&kp C_MUTE  &kp DELETE   &kp PSCRN       &kp C_PP
 					&kp KP_NLCK &kp KP_SLASH &kp KP_MULTIPLY &kp KP_MINUS
@@ -28,6 +30,8 @@
 		};
 
 		lower_layer {
+		
+			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
 			bindings = <
 					&kp KP_NLCK &kp KP_NLCK &kp KP_NLCK &kp KP_NLCK
 					&kp KP_NLCK &kp KP_NLCK &kp KP_NLCK &kp KP_NLCK
