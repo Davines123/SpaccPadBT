@@ -1,2 +1,2 @@
-config VideoWriterBT
+config SpaccPadBT
     def_bool $(shields_list_contains,my_board)
