@@ -6,7 +6,7 @@
         zmk,matrix_transform = &default_transform;
     };
     
-     left_encoder: encoder_left {
+     encoder_left: encoder_left {
         compatible = "alps,ec11";
         label = "LEFT_ENCODER";
         a-gpios = <&gpio0 22 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
@@ -15,7 +15,7 @@
 	status = "okay";
     };
 
-right_encoder: encoder_right {
+encoder_right: encoder_right {
         compatible = "alps,ec11";
         label = "RIGHT_ENCODER";
         a-gpios = <&gpio0 8 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
