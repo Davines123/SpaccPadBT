@@ -67,7 +67,6 @@ right_encoder: encoder_right {
    	
 	sensors {
 		compatible = "zmk,keymap-sensors";
-		sensors = <&encoder>;
-
+		sensors = <&right_encoder &left_encoder>;
    };
  };
