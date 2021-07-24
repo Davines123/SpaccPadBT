@@ -9,9 +9,8 @@
   &left_encoder {
      
 	status = "okay";
-    };
 
-&right_encoder {
+&right_encoder 
 	status = "okay";
     };
 
