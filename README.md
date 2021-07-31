@@ -4,3 +4,5 @@ Using a Nice!NanoV2 this will allow the pro micro to be swapped and a 110 Mah ba
 
 To use this firmware download it into a working ZMK installation under zmk/app/boards/shields/SpaccPadBT
 As this is designed to use a Nice!NanoV2 that is what I reccommend but the pin outs can be made to work in any other ZMK compatible MCU by editing the overlay.
+
+Not Quite Done Yet
