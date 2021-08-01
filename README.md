@@ -8,4 +8,5 @@ As this is designed to use a Nice!NanoV2 that is what I reccommend but the pin o
 Not Quite Done Yet
 
 To Do
+
 Fix Encoders
