@@ -6,3 +6,6 @@ To use this firmware download it into a working ZMK installation under zmk/app/b
 As this is designed to use a Nice!NanoV2 that is what I reccommend but the pin outs can be made to work in any other ZMK compatible MCU by editing the overlay.
 
 Not Quite Done Yet
+
+To Do
+Fix Encoders
