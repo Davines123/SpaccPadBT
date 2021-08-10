@@ -37,7 +37,7 @@
 		
 			bindings = <
 					&kp KP_NLCK &ext_power EP_TOG   &kp KP_NLCK &kp KP_NLCK
-					&tog LOWER  &kp KP_SLASH        &kp KP_MULTIPLY &kp KP_MINUS
+					&tog LOWER  &kp KP_SLASH        &kp PSCRN &kp KP_MINUS
 		     	    &kp KP_NLCK &kp HOME    &kp UP       	&kp PAGE_UP     
 			    &bt BT_CLR  &kp LEFT    &none        	&kp RIGHT	&kp KP_PLUS
 			    &bt BT_PRV  &kp END     &kp DOWN     	&kp PAGE_DOWN   
