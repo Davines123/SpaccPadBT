@@ -9,4 +9,4 @@ Not Quite Done Yet
 
 To Do
 
-Fix Encoders
+Nothing, fully functional
